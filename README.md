@@ -5,14 +5,12 @@ Kubernetes上で動作させるGoアプリケーションのサンプルリポ�
 
 ## Requirement
 
-### Docker 
-#### - install
-`https://docs.docker.com/v17.09/engine/installation/#docker-cloud`
+### Docker
+[install](https://docs.docker.com/v17.09/engine/installation/#docker-cloud)
 
 ------------------
 
 # Usage 
-
 
 ## Docker
 
